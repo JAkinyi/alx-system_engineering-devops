@@ -5,3 +5,4 @@ list in long format
 list all files including hidden in long format
 list numerically plus with hidden files
 create first directory
+moving a file 
