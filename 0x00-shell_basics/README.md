@@ -11,3 +11,4 @@ deleting a directory
 change to previous directory
 list more files 
 classifying a file 
+Creating a symbolic link
