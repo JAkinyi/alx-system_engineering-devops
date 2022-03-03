@@ -6,3 +6,4 @@
 5- add execute permissions to owner of file
 6-give multiple permissions to a file
 7-adding execute permissions for everybody
+8-All Permissions only to other users
