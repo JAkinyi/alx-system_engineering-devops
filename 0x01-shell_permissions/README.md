@@ -7,3 +7,4 @@
 6-give multiple permissions to a file
 7-adding execute permissions for everybody
 8-All Permissions only to other users
+9-Set specific fle mode
