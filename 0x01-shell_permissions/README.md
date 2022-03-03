@@ -8,3 +8,7 @@
 7-adding execute permissions for everybody
 8-All Permissions only to other users
 9-Set specific fle mode
+10-set mode of afile to a reference mode
+11-add execute permissions to all subdirectories of current directory 
+12-create a directory with specific permissions
+13-change group owner
