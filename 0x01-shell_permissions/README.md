@@ -12,3 +12,4 @@
 11-add execute permissions to all subdirectories of current working directory for owner, group owner and other users
 12-create a directory with specific permissions
 13-change group owner of a particular file
+100-Change owner and group
